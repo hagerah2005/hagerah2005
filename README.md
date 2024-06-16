@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.shutterstock.com/image-photo/robot-hand-ai-artificial-intelligence-600nw-2118695231.jpg"width="100%" />
+<p align="center"><img src="https://www.techopedia.com/wp-content/uploads/2023/06/artificial_intelligence.png"width="100%" />
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Greetings!;I'm+Hager+Ahmed.;I'm+here+to+connect+and+create+with+fellow+enthusiasts.;Welcome+to+my+profile.;&center=true&width=600&height=50"></a>
 </p><br><br><br><br>
@@ -10,13 +10,12 @@
 <br>
 </div><h3 align="left">🌐 Contact me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hager-tantawy-99b987313/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-
-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="hagerah2005" height="30" width="40" /></a><a href="https://www.facebook.com/profile.php?id=61550692778258" target="blank"><img
+<a href="https://www.linkedin.com/in/hager-tantawy-99b987313/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="hagerah2005" height="30" width="40" /></a><a href="https://www.facebook.com/profile.php?id=61550692778258" target="blank"><img
 align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Hager A Tantawy" height="30" width="40"
 /></a><a href="https://codeforces.com/profile/Hager_5162" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="Hager_5162" height="30" width="40" /></a></p><br>
-- 🔭 I’m currently working on different projects.<br>
-- 🌱 I’m currently learning structured programming using C++.<br>
-- ✨ I'm planning on learning OOP soon and training my problem solving skills.<br>
+- 🥇I learned the fundamental of Computer Science using Python.<br>
+- 📌I’m currently learning structured programming using C++ and have worked on projects in it. I am also trying to improve my skills in it.<br>
+- 🌟I am trying my best to improve my problem-solving skills and I want to learn more programming languages.<br>
 <p align="right"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"width="50%" />
 
 # 💻 Languages and Tools:
