@@ -15,8 +15,8 @@ align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-G
 /></a><a href="https://codeforces.com/profile/Hager_5162" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="Hager_5162" height="30" width="40" /></a></p><br>
 - 🥇I learned the fundamental of Computer Science using Python.<br>
 - 📌I’m currently learning structured programming using C++ and have worked on projects in it. I am also trying to improve my skills in it.<br>
-- 🌟I am trying my best to improve my problem-solving skills and I want to learn more programming languages.<br>
-<p align="right"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"width="50%" />
+- 🌟I am trying my best to improve my problem-solving skills and I want to learn more programming languages.<br> <br>
+<p align="right"><img src="https://media1.tenor.com/m/cm-dS4ipBUMAAAAC/grok-chatgpt.gif"width="35%" />
 
 # 💻 Languages and Tools:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
