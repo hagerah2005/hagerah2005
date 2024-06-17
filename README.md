@@ -23,11 +23,11 @@ align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-G
 
 <br><br>
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics:
-<br>![](https://github-readme-stats.vercel.app/api?username=Youssef-Amgad-Elkhatib&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Amgad-Elkhatib&layout=donut&theme=blue-green&hide_border=false)](https://github.com/Youssef-Amgad-Elkhatib/github-readme-stats)<p align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Amgad-Elkhatib&theme=blue-green&hide_border=false)
+<br>![](https://github-readme-stats.vercel.app/api?username=hagerah2005&theme=aura&hide_border=false&include_all_commits=true&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hagerah2005&layout=donut&theme=aura&hide_border=false)](https://github.com/hagerah2005/github-readme-stats)<p align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=hagerah2005&theme=aura&hide_border=false)
 
-<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssef-Amgad-Elkhatib&theme=aura" height="200em" /><br>
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hagerah2005&theme=aura" height="200em" /><br>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Amgad-Elkhatib&theme=high-contrast)](https://github.com/Youssef-Amgad-Elkhatib/github-readme-activity-graph)<p align="center">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hagerah2005&theme=high-contrast)](https://github.com/hagerah2005/github-readme-activity-graph)<p align="center">
 <br><br><img src="https://i.gifer.com/origin/dc/dc412623146610157eb73e727f4d16bc.gif" width="100%" height="100" />
 <br><br>
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
