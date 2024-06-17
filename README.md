@@ -42,6 +42,5 @@ align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-G
 
 
 <!---
-Youssef-Amgad-Elkhatib/Youssef-Amgad-Elkhatib is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I would like to express my sincere thanks and gratitude to my colleague Youssef Amgad for his tremendous support and assistance in completing this readme.
 --->
