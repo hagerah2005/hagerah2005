@@ -16,40 +16,37 @@ align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-G
  <!-- END YOUTUBE-CARDS -->
 </br>
 </br>
-# 🚀 My Tech Learning Journey🚀
+<h1>🚀My Tech Learning Journey🚀 </h1>
 
 <strong>The beautiful thing about learning is that nobody can take it away from you:</strong>
 </br>
 </br>
- <img src="https://media1.tenor.com/m/cm-dS4ipBUMAAAAC/grok-chatgpt.gif" align="right" height="350em" width="300em" >
+ <img src="https://media1.tenor.com/m/cm-dS4ipBUMAAAAC/grok-chatgpt.gif" align="right" height="400em" width="600em" >
+<pre>
+<h3>🧩 What I’ve Already Learned</h3>
+  ✅ Computer Science Fundamentals using Python</br>
+  ✅ Structured Programming in C++ | Mini Projects 👨‍💻</br>
+  ✅ Object-Oriented Programming (OOP) using C++ | Classes | Inheritance | Polymorphism</br>
+  ✅ Data Structures in C++ | Arrays | Linked Lists | Stacks | Queues | Trees</br>
+  ✅ Problem Solving | Competitive Programming | Logic Building 🧠</br>
 
-### 🧩 What I’ve Already Learned
-
-✅ Computer Science Fundamentals using Python
-✅ Structured Programming in C++ | Mini Projects 👨‍💻
-✅ Object-Oriented Programming (OOP) using C++ | Classes | Inheritance | Polymorphism
-✅ Data Structures in C++ | Arrays | Linked Lists | Stacks | Queues | Trees
-✅ Problem Solving | Competitive Programming | Logic Building 🧠
-
-
-### 🌱 **What I'm Currently Exploring**
-📊 Data Science & Analysis
+<h3>🌱 What I'm Currently Exploring</h3>
+<h4>📊 Data Science & Analysis</h4>
 Python 🐍 | Pandas 🐼 | NumPy 🔢 | Matplotlib 📉 | Seaborn 🌊
 
-🗄️ Databases & SQL
+<h4>🗄️ Databases & SQL</h4>
 Microsoft SQL Server 🏢 | Database Management 📂 | SQL Queries ⚡
 
-🎨 Frontend Web Development
+<h4>🎨 Frontend Web Development</h4>
 HTML5 🌐 | CSS3 💅 | JavaScript    
 
-### 🛠️ **Upcoming Learning Goals**  
+<h3>🛠️ Upcoming Learning Goals </h3>
 🔹 Advanced AI & ML 🤖 | Algorithms & Data Structures 💡 | Real-world Projects 🚧
 
-### 🔭 **On the Horizon**
-
+<h3>🔭 On the Horizon</h3>
 Portfolio Projects 💼 | Open Source 🛠️ | Backend & APIs 🌐 | Team Collaboration 💬
 
-
+</pre>
 
 <div>
 <h2 align="right">The journey never ends — just evolves. Dive into my repos and reach out anytime! 🌱 </h2>
