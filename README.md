@@ -32,19 +32,19 @@ align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-G
 
 <h3>🌱 What I'm Currently Exploring</h3>
 <h4>📊 Data Science & Analysis</h4>
-Python 🐍 | Pandas 🐼 | NumPy 🔢 | Matplotlib 📉 | Seaborn 🌊
+Python  | Pandas  | NumPy  | Matplotlib  | Seaborn 
 
 <h4>🗄️ Databases & SQL</h4>
-Microsoft SQL Server 🏢 | Database Management 📂 | SQL Queries ⚡
+Microsoft SQL Server  | Database Management  | SQL Queries 
 
 <h4>🎨 Frontend Web Development</h4>
-HTML5 🌐 | CSS3 💅 | JavaScript    
+HTML5  | CSS3  | JavaScript    
 
 <h3>🛠️ Upcoming Learning Goals </h3>
-🔹 Advanced AI & ML 🤖 | Algorithms & Data Structures 💡 | Real-world Projects 🚧
+🔹 Advanced AI & ML  | Algorithms & Data Structures  | Real-world Projects 
 
 <h3>🔭 On the Horizon</h3>
-Portfolio Projects 💼 | Open Source 🛠️ | Backend & APIs 🌐 | Team Collaboration 💬
+Portfolio Projects | Open Source  | Backend & APIs  | Team Collaboration 
 
 </pre>
 
