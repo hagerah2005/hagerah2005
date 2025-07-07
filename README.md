@@ -12,8 +12,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/hager-tantawy-99b987313/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="hagerah2005" height="30" width="40" /></a><a href="https://www.facebook.com/profile.php?id=61550692778258" target="blank"><img
 align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Hager A Tantawy" height="30" width="40"
-/></a><a href="https://codeforces.com/profile/Hager_5162" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="Hager_5162" height="30" width="40" /></a></p><br>
- <!-- END YOUTUBE-CARDS -->
+/></a><a href="https://codeforces.com/profile/Hager_5162" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="Hager_5162" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@hagerahmed7693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youssef amgad elkhatib" height="30" width="40" /></a></p><br>
 </br>
 </br>
 <h1>🚀My Tech Learning Journey🚀 </h1>
