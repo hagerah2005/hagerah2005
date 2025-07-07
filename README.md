@@ -56,7 +56,6 @@ Portfolio Projects 💼 | Open Source 🛠️ | Backend & APIs 🌐 | Team Colla
 </div>
 </br>
 </br>
-<p align="right"><img src="https://media1.tenor.com/m/cm-dS4ipBUMAAAAC/grok-chatgpt.gif"width="35%" />
 
 # 💻 Languages and Tools:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
