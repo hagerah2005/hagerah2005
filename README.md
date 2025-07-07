@@ -21,7 +21,7 @@ align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-G
 <strong>The beautiful thing about learning is that nobody can take it away from you:</strong>
 </br>
 </br>
- <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="right" height="350em" width="300em" >
+ <img src="https://media1.tenor.com/m/cm-dS4ipBUMAAAAC/grok-chatgpt.gif" align="right" height="350em" width="300em" >
 
 ### 🧩 What I’ve Already Learned
 
