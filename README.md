@@ -66,7 +66,11 @@ Portfolio Projects | Open Source  | Backend & APIs  | Team Collaboration
 <br><br><img src="https://i.gifer.com/origin/dc/dc412623146610157eb73e727f4d16bc.gif" width="100%" height="100" />
 <br><br>
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
-<h1 align="center"><br>I am a student at the Faculty of Computers and Artificial Intelligence at Cairo University.<br>I am trying to do my best  to reach a great place in the field of programming and problem solving, and I seek to become more and more experienced in this field.<br> My dream is to be the owner of the largest  hospital equipped with devices manufactured with artificial intelligence to treat all patients,especially those with malignant diseases, for free.
+<h1 align="center">I am a student at the Faculty of Computers and Artificial Intelligence, Cairo University.
+I'm passionate about technology and always striving to become better in the fields of programming, problem solving, and software development.<br>Currently, I'm diving into several exciting areas, including:
+Artificial Intelligence | Web Development | Data Science
+
+I’m constantly learning and working hard to expand my knowledge and skills, aiming to build real-world projects and become more experienced every day.<br> My dream is to be the owner of the largest  hospital equipped with devices manufactured with artificial intelligence to treat all patients,especially those with malignant diseases, for free.
 <br><br>
 
 
