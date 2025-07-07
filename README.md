@@ -13,9 +13,49 @@
 <a href="https://www.linkedin.com/in/hager-tantawy-99b987313/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="hagerah2005" height="30" width="40" /></a><a href="https://www.facebook.com/profile.php?id=61550692778258" target="blank"><img
 align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Hager A Tantawy" height="30" width="40"
 /></a><a href="https://codeforces.com/profile/Hager_5162" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="Hager_5162" height="30" width="40" /></a></p><br>
-- 🥇I learned the fundamental of Computer Science using Python.<br>
-- 📌I’m currently learning structured programming using C++ and have worked on projects in it. I am also trying to improve my skills in it.<br>
-- 🌟I am trying my best to improve my problem-solving skills and I want to learn more programming languages.<br> <br>
+ <!-- END YOUTUBE-CARDS -->
+</br>
+</br>
+# 🚀 My Tech Learning Journey🚀
+
+<strong>The beautiful thing about learning is that nobody can take it away from you:</strong>
+</br>
+</br>
+ <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="right" height="350em" width="300em" >
+
+### 🧩 What I’ve Already Learned
+
+✅ Computer Science Fundamentals using Python
+✅ Structured Programming in C++ | Mini Projects 👨‍💻
+✅ Object-Oriented Programming (OOP) using C++ | Classes | Inheritance | Polymorphism
+✅ Data Structures in C++ | Arrays | Linked Lists | Stacks | Queues | Trees
+✅ Problem Solving | Competitive Programming | Logic Building 🧠
+
+
+### 🌱 **What I'm Currently Exploring**
+📊 Data Science & Analysis
+Python 🐍 | Pandas 🐼 | NumPy 🔢 | Matplotlib 📉 | Seaborn 🌊
+
+🗄️ Databases & SQL
+Microsoft SQL Server 🏢 | Database Management 📂 | SQL Queries ⚡
+
+🎨 Frontend Web Development
+HTML5 🌐 | CSS3 💅 | JavaScript    
+
+### 🛠️ **Upcoming Learning Goals**  
+🔹 Advanced AI & ML 🤖 | Algorithms & Data Structures 💡 | Real-world Projects 🚧
+
+### 🔭 **On the Horizon**
+
+Portfolio Projects 💼 | Open Source 🛠️ | Backend & APIs 🌐 | Team Collaboration 💬
+
+
+
+<div>
+<h2 align="right">The journey never ends — just evolves. Dive into my repos and reach out anytime! 🌱 </h2>
+</div>
+</br>
+</br>
 <p align="right"><img src="https://media1.tenor.com/m/cm-dS4ipBUMAAAAC/grok-chatgpt.gif"width="35%" />
 
 # 💻 Languages and Tools:
