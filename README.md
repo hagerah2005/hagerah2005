@@ -21,7 +21,6 @@ align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-G
 <strong>The beautiful thing about learning is that nobody can take it away from you:</strong>
 </br>
 </br>
- <img src="https://media1.tenor.com/m/cm-dS4ipBUMAAAAC/grok-chatgpt.gif" align="right" height="400em" width="600em" >
 <pre>
 <h3>🧩 What I’ve Already Learned</h3>
   ✅ Computer Science Fundamentals using Python</br>
